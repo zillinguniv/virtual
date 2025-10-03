@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"virtual/network/node"
+	"virtual/internal/node"
 )
 
 func main() {
@@ -43,3 +43,4 @@ func main() {
 
 	select {} // block forever
 }
+
