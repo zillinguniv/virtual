@@ -1,0 +1,28 @@
+{
+  "config": {
+    "network": "VTC",
+    "chainId": 1,
+    "genesisTime": 1751347200,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  "genesisBlock": {
+    "header": {
+      "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "timestamp": 1751347200,
+      "vtcunix": 0,
+      "stateRoot": "0x0",
+      "transactionsRoot": "0x0",
+      "receiptsRoot": "0x0",
+      "eventsRoot": "0x0",
+      "extraData": "Initial genesis block for Virtual Time Chain"
+    },
+    "hash": "0xGENESIS"
+  },
+  "info": {
+    "version": "v1.0",
+    "creator": "vtcnode"
+  }
+}
+
+
+ 
